@@ -1,19 +1,20 @@
 # Sprint Log
 
-## Sprint 1 (Week 3 lab)
+## Sprint 1 
 
 ### Sprint goal
-[One sentence: what do you want to finish by the end of this lab?]
+To complete the user stories with acceptance criteria, organize the functional requirements, and improve the GitHub README for the Web-Based Assessment and Question Analytics System with Data Visualization project
 
 ### Sprint backlog
 | Issue | Task | Status |
 |-------|------|--------|
-| #1 | | To do |
-| #2 | | To do |
-| #3 | | To do |
+| #1 |Add acceptance criteria to each user story | To do |
+| #2 |Number the requirements and link each story to one | To do |
+| #3 |Add structure and roadmap to the README | To do |
 
 ### Daily standup notes
-- Standup 1: [what I will do now / what could block me]
+- Standup 1:  I will update the three user stories and add at least two acceptance criteria for each story. I will also check that the requirements match the main features of my FYP. A possible challenge is making the acceptance criteria clear and testable.
+
 - Standup 2: [what I did / what is next / any blocker]
 
 ### Sprint review
