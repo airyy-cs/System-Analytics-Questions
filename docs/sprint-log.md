@@ -8,8 +8,8 @@ To complete the user stories with acceptance criteria, organize the functional r
 ### Sprint backlog
 | Issue | Task | Status |
 |-------|------|--------|
-| #1 |Add acceptance criteria to each user story | To do |
-| #2 |Number the requirements and link each story to one | To do |
+| #1 |Add acceptance criteria to each user story | Done |
+| #2 |Number the requirements and link each story to one | Done |
 | #3 |Add structure and roadmap to the README | To do |
 
 ### Daily standup notes
