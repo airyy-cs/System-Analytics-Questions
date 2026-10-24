@@ -11,6 +11,9 @@ To complete the user stories with acceptance criteria, organize the functional r
 | #1 |Add acceptance criteria to each user story | Done |
 | #2 |Number the requirements and link each story to one | Done |
 | #3 |Add structure and roadmap to the README | To do |
+| #4 |Add evidence to the problem statement | To do |
+| #5 |Choose the specialized technology and list 3 sources | To do |
+| #6 |Outline the technology explanation | To do |
 
 ### Daily standup notes
 - Standup 1:  I will update the three user stories and add at least two acceptance criteria for each story. I will also check that the requirements match the main features of my FYP. A possible challenge is making the acceptance criteria clear and testable.
