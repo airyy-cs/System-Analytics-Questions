@@ -12,7 +12,7 @@ To complete the user stories with acceptance criteria, organize the functional r
 | #2 |Number the requirements and link each story to one | Done |
 | #3 |Add structure and roadmap to the README | To do |
 | #4 |Add evidence to the problem statement | Done |
-| #5 |Choose the specialized technology and list 3 sources | To do |
+| #5 |Choose the specialized technology and list 3 sources | Done |
 | #6 |Outline the technology explanation | To do |
 
 ### Daily standup notes
